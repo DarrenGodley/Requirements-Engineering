@@ -1,0 +1,41 @@
+I:\Requirements Engineering\PremSys\TeamReg\frmTeamReg\frmTeamReg\bin\Debug\frmTeamReg.exe.config
+I:\Requirements Engineering\PremSys\TeamReg\frmTeamReg\frmTeamReg\bin\Debug\frmTeamReg.exe
+I:\Requirements Engineering\PremSys\TeamReg\frmTeamReg\frmTeamReg\bin\Debug\frmTeamReg.pdb
+I:\Requirements Engineering\PremSys\TeamReg\frmTeamReg\frmTeamReg\obj\Debug\frmTeamReg.csprojResolveAssemblyReference.cache
+I:\Requirements Engineering\PremSys\TeamReg\frmTeamReg\frmTeamReg\obj\Debug\frmTeamReg.FrmTeamReg.resources
+I:\Requirements Engineering\PremSys\TeamReg\frmTeamReg\frmTeamReg\obj\Debug\frmTeamReg.Properties.Resources.resources
+I:\Requirements Engineering\PremSys\TeamReg\frmTeamReg\frmTeamReg\obj\Debug\frmTeamReg.csproj.GenerateResource.Cache
+I:\Requirements Engineering\PremSys\TeamReg\frmTeamReg\frmTeamReg\obj\Debug\frmTeamReg.csproj.CoreCompileInputs.cache
+I:\Requirements Engineering\PremSys\TeamReg\frmTeamReg\frmTeamReg\obj\Debug\frmTeamReg.exe
+I:\Requirements Engineering\PremSys\TeamReg\frmTeamReg\frmTeamReg\obj\Debug\frmTeamReg.pdb
+I:\Requirements Engineering\PremSys\TeamReg\frmTeamReg\frmTeamReg\obj\Debug\frmTeamReg.frmMainMenu.resources
+I:\Requirements Engineering\PremSys\TeamReg\frmTeamReg\frmTeamReg\obj\Debug\frmTeamReg.frmUpdTeam.resources
+I:\Requirements Engineering\PremSys\TeamReg\frmTeamReg\frmTeamReg\obj\Debug\frmTeamReg.frmRelTeam.resources
+C:\Users\t00187846\Desktop\MM_RE_Godley_D_Ass\PremSys\TeamReg\frmTeamReg\frmTeamReg\bin\Debug\frmTeamReg.exe.config
+C:\Users\t00187846\Desktop\MM_RE_Godley_D_Ass\PremSys\TeamReg\frmTeamReg\frmTeamReg\bin\Debug\frmTeamReg.exe
+C:\Users\t00187846\Desktop\MM_RE_Godley_D_Ass\PremSys\TeamReg\frmTeamReg\frmTeamReg\bin\Debug\frmTeamReg.pdb
+C:\Users\t00187846\Desktop\MM_RE_Godley_D_Ass\PremSys\TeamReg\frmTeamReg\frmTeamReg\obj\Debug\frmTeamReg.csprojResolveAssemblyReference.cache
+C:\Users\t00187846\Desktop\MM_RE_Godley_D_Ass\PremSys\TeamReg\frmTeamReg\frmTeamReg\obj\Debug\frmTeamReg.frmMainMenu.resources
+C:\Users\t00187846\Desktop\MM_RE_Godley_D_Ass\PremSys\TeamReg\frmTeamReg\frmTeamReg\obj\Debug\frmTeamReg.frmRelTeam.resources
+C:\Users\t00187846\Desktop\MM_RE_Godley_D_Ass\PremSys\TeamReg\frmTeamReg\frmTeamReg\obj\Debug\frmTeamReg.frmTeamReg.resources
+C:\Users\t00187846\Desktop\MM_RE_Godley_D_Ass\PremSys\TeamReg\frmTeamReg\frmTeamReg\obj\Debug\frmTeamReg.frmUpdTeam.resources
+C:\Users\t00187846\Desktop\MM_RE_Godley_D_Ass\PremSys\TeamReg\frmTeamReg\frmTeamReg\obj\Debug\frmTeamReg.Properties.Resources.resources
+C:\Users\t00187846\Desktop\MM_RE_Godley_D_Ass\PremSys\TeamReg\frmTeamReg\frmTeamReg\obj\Debug\frmTeamReg.csproj.GenerateResource.Cache
+C:\Users\t00187846\Desktop\MM_RE_Godley_D_Ass\PremSys\TeamReg\frmTeamReg\frmTeamReg\obj\Debug\frmTeamReg.csproj.CoreCompileInputs.cache
+C:\Users\t00187846\Desktop\MM_RE_Godley_D_Ass\PremSys\TeamReg\frmTeamReg\frmTeamReg\obj\Debug\frmTeamReg.exe
+C:\Users\t00187846\Desktop\MM_RE_Godley_D_Ass\PremSys\TeamReg\frmTeamReg\frmTeamReg\obj\Debug\frmTeamReg.pdb
+I:\Requirements Engineering\MM_RE_Godley_D_Ass\PremSys\TeamReg\frmTeamReg\frmTeamReg\obj\Debug\frmTeamReg.csprojResolveAssemblyReference.cache
+I:\Requirements Engineering\MM_RE_Godley_D_Ass\PremSys\TeamReg\frmTeamReg\frmTeamReg\obj\Debug\frmTeamReg.frmMainMenu.resources
+I:\Requirements Engineering\MM_RE_Godley_D_Ass\PremSys\TeamReg\frmTeamReg\frmTeamReg\obj\Debug\frmTeamReg.frmRelTeam.resources
+I:\Requirements Engineering\MM_RE_Godley_D_Ass\PremSys\TeamReg\frmTeamReg\frmTeamReg\obj\Debug\frmTeamReg.frmTeamReg.resources
+I:\Requirements Engineering\MM_RE_Godley_D_Ass\PremSys\TeamReg\frmTeamReg\frmTeamReg\obj\Debug\frmTeamReg.frmUpdTeam.resources
+I:\Requirements Engineering\MM_RE_Godley_D_Ass\PremSys\TeamReg\frmTeamReg\frmTeamReg\obj\Debug\frmTeamReg.Properties.Resources.resources
+I:\Requirements Engineering\MM_RE_Godley_D_Ass\PremSys\TeamReg\frmTeamReg\frmTeamReg\obj\Debug\frmTeamReg.csproj.GenerateResource.Cache
+I:\Requirements Engineering\MM_RE_Godley_D_Ass\PremSys\TeamReg\frmTeamReg\frmTeamReg\obj\Debug\frmTeamReg.csproj.CoreCompileInputs.cache
+I:\Requirements Engineering\MM_RE_Godley_D_Ass\PremSys\TeamReg\frmTeamReg\frmTeamReg\obj\Debug\frmTeamReg.exe
+I:\Requirements Engineering\MM_RE_Godley_D_Ass\PremSys\TeamReg\frmTeamReg\frmTeamReg\obj\Debug\frmTeamReg.pdb
+I:\Requirements Engineering\MM_RE_Godley_D_Ass\PremSys\TeamReg\frmTeamReg\frmTeamReg\bin\Debug\frmTeamReg.exe.config
+I:\Requirements Engineering\MM_RE_Godley_D_Ass\PremSys\TeamReg\frmTeamReg\frmTeamReg\bin\Debug\frmTeamReg.exe
+I:\Requirements Engineering\MM_RE_Godley_D_Ass\PremSys\TeamReg\frmTeamReg\frmTeamReg\bin\Debug\frmTeamReg.pdb
+I:\Requirements Engineering\MM_RE_Godley_D_Ass\PremSys\TeamReg\frmTeamReg\frmTeamReg\bin\Debug\Oracle.ManagedDataAccess.dll
+I:\Requirements Engineering\MM_RE_Godley_D_Ass\PremSys\TeamReg\frmTeamReg\frmTeamReg\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
